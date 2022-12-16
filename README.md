@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **JS, Bootstrap and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://linktoyinka.github.io/portfolio/](https://linktoyinka.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://linktoyinka.github.io/portfolio/blog.html](https://linktoyinka.github.io/portfolio/blog.html)
+- 👨‍💻 All of my projects are available at [visit my portfolio](https://linktoyinka.netlify.app/)
 
 - 💬 Ask me about **Html and CSS**
 
 - 📫 How to reach me **linktoyinka@gmail.com**
 
-- 📄 Know about my experiences [https://linktoyinka.github.io/portfolio/about.html](https://linktoyinka.github.io/portfolio/about.html)
+- 📄 Know about my experiences [check my resume](https://linktoyinka.netlify.app/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
