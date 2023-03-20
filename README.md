@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afolabi Abdullahi O.</h1>
-<h3 align="center">A Frontend web developer and Digital Marketer who has honed his skills in Web Development and also have core understanding of basic UI design principles.</h3>
+<h3 align="center">Afolabi is a skilled and dedicated Frontend developer with a passion for creating beautiful and functional user interfaces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linktoyinka&label=Profile%20views&color=0e75b6&style=flat" alt="linktoyinka" /> </p>
 
