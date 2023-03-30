@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linktoyinka" alt="linktoyinka" /></a> </p>
 
-- 🌱 I’m currently learning **JS, Bootstrap and Tailwind CSS**
+- 🌱 I’m currently learning **Bootstrap and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [visit my portfolio](https://linktoyinka.netlify.app/)
+- 👨‍💻 All of my projects are available at [visit my portfolio](https://afolabi.me/)
 
 - 💬 Ask me about **Html and CSS**
 
-- 📫 How to reach me **linktoyinka@gmail.com**
+- 📫 How to reach me **hi@afolabi.me**
 
-- 📄 Know about my experiences [check my resume](https://linktoyinka.netlify.app/about)
+<!-- - 📄 Know about my experiences [check my resume](https://linktoyinka.netlify.app/about) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
