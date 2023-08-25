@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Afolabi</h1>
 
-<h3 align="center">A skilled and dedicated Frontend developer with a passion for creating beautiful and functional user interfaces</h3>
+<h3 align="center">I am a versatile professional with a deep passion for front-end development and a talent for making technical topics accessible to all. With a background in crafting seamless user experiences, I bring meticulous attention to detail to every project. As a technical writer, I honed the art of simplifying complex concepts, making my work a bridge between technology and the layperson.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linktoyinka&label=Profile%20views&color=000000&style=flat" alt="linktoyinka" /> </p>
 
